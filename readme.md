@@ -32,7 +32,7 @@ npm init -y
 
 * Imagem do resultado do comando no terminal
 
-<img src="../assets/npm_init.png">
+<img src="./assets/npm_init.png">
 
 #### Instalar os pacotes
 ```
