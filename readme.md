@@ -499,7 +499,7 @@ rm -rf projetoBackend
 * -f (force): não pergunta confirmações
 * projetoBackend: nome da pasta que contem os arquivos da aplicação
 
-## Conclusão do Passo 2
+## Conclusão do Passo 3
 #### URL do repositório com:
  * Estrutura do projeto 
  * Arquivo readme de documentação dos passos realizados
